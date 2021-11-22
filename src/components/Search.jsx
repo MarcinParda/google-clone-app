@@ -7,7 +7,7 @@ import { Links } from './Links';
 export const Search = () => {
   const { setSearchTerm } = useStateContext();
   const [text, setText] = useState('Tailwind CSS');
-  const [debouncedValue] = useDebounce(text, 300);
+  const [debouncedValue] = useDebounce(text, 500);
 
   useEffect(() => {
     if (debouncedValue) setSearchTerm(debouncedValue);
