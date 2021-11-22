@@ -1,5 +1,8 @@
 # Go browser - Google Clone app
 
+## Live
+U can watch this app live here (unless my account reached limit off requests)
+
 ## Introduction
 App created with React and Google Search API powered by https://rapidapi.com.
 
