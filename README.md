@@ -1,6 +1,6 @@
 # Go browser - Google Clone app
 
-## Live
+## Live [HERE](https://gobrowser.netlify.app/search)
 U can watch this app live here (unless my account reached limit off requests)
 
 ## Introduction
