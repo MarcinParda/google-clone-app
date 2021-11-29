@@ -7,7 +7,7 @@ U can watch this app live here (unless my account reached limit off requests)
 App created with React and Google Search API powered by https://rapidapi.com.
 
 ## To fix/implment
-- Videos didnt render properly
+- Videos don't render properly
 
 ## Setup
 - run ```npm i && npm start``` to start the development server
