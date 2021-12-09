@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
-import ReactPlayer from 'react-player';
+// import ReactPlayer from 'react-player';
 
 import { useStateContext } from '../contexts/StateContextProvider';
 import { Loading } from './Loading';
@@ -66,13 +66,16 @@ export const Results = () => {
       );
     case '/videos':
       return (
-        <div className="flex flex-wrap ">
-          {results?.results?.map((video, index) => (
-            <div key={index} className="p-2">
-              <ReactPlayer url={video.additional_links?.[0].href} controls width="355px" height="200px" />
-            </div>
-          ))}
+        <div className="flex flex-wrap justify-center align-middle mt-4">
+          Sadly Google Search API disable video endpoint for now
         </div>
+        // <div className="flex flex-wrap ">
+        //   {results?.results?.map((video, index) => (
+        //     <div key={index} className="p-2">
+        //       <ReactPlayer url={video.additional_links?.[0].href} controls width="355px" height="200px" />
+        //     </div>
+        //   ))}
+        // </div>
       );
     default:
       return 'Error...';
