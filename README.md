@@ -1,8 +1,8 @@
 
 # Go browser - Google Clone app
 
-## Live
-U can watch it live [HERE](https://cdn.discordapp.com/attachments/917864818189418576/918566121572016158/unknown.png)
+## U can watch it live [HERE](https://cdn.discordapp.com/attachments/917864818189418576/918566121572016158/unknown.png)
+
 
 ![Project preview](https://cdn.discordapp.com/attachments/917864818189418576/918566121572016158/unknown.png)
 **_Built using React, Google Search API, rapidapi, TailwindCSS_**
