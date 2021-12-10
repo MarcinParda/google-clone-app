@@ -16,6 +16,8 @@
 - Dark mode
 - Mobile responsiveness
 
-## Things to do
 
+## Fuctionalities to implement
+
+- [ ] Rewrite to typescript
 - [x] Fix displaying videos
